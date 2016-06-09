@@ -1,5 +1,5 @@
 package Text::Hogan::Compiler;
-
+$Text::Hogan::Compiler::VERSION = '1.03';
 use Text::Hogan::Template;
 
 use strict;
@@ -556,6 +556,10 @@ __END__
 =head1 NAME
 
 Text::Hogan::Compiler - parse templates and output Perl code
+
+=head1 VERSION
+
+version 1.03
 
 =head1 SYNOPSIS
 

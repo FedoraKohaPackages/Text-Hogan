@@ -1,5 +1,5 @@
 package Text::Hogan;
-
+$Text::Hogan::VERSION = '1.03';
 use strict;
 use warnings;
 
@@ -10,6 +10,10 @@ __END__
 =head1 NAME
 
 Text::Hogan - A mustache templating engine statement-for-statement cloned from hogan.js
+
+=head1 VERSION
+
+version 1.03
 
 =head1 DESCRIPTION
 

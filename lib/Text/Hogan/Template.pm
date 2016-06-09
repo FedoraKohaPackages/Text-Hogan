@@ -1,5 +1,5 @@
 package Text::Hogan::Template;
-
+$Text::Hogan::Template::VERSION = '1.03';
 use strict;
 use warnings;
 
@@ -399,6 +399,10 @@ __END__
 =head1 NAME
 
 Text::Hogan::Template - represent and render compiled templates
+
+=head1 VERSION
+
+version 1.03
 
 =head1 SYNOPSIS
 
